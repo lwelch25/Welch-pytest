@@ -1,7 +1,7 @@
 # Pytest Lab[![](https://github.com/lwelch25/Welch-pytest/workflows/tests/badge.svg)](https://github.com/lwelch25/lwelch25/actions?query=workflow%3Atests)
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
-You will also walk through how to use the pytest framework for running test cases.
+You will also walk through how to use the pytest framework for running test cases. 
 
 ## Instructions
 
